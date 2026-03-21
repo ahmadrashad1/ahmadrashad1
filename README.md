@@ -14,9 +14,9 @@
 class Ahmad:
     role        = "CS Student & Developer"
     university  = "FAST NUCES, Pakistan"
-    focus       = ["AI/ML", "Game Dev", "Parallel Computing", "Full-Stack"]
+    focus       = ["AI/ML", "Full Stack", "AI Automations", "Software Development"]
     currently   = "Exploring the intersection of intelligence and code"
-    ask_me_about= ["Minimax algorithms", "ML models", "C++ systems", "React"]
+    ask_me_about= ["API integrations", "AI Automations", "Full Stack", "React", "AI algorithms"]
 
     def mission(self):
         return "Turn caffeine and curiosity into working software."
