@@ -1,22 +1,29 @@
 <div align="center">
 
-# Ahmad Rashad
-### Computer Science @ FAST NUCES · Building Things That Think
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f6e,100:6e40c9&height=220&section=header&text=Ahmad%20Rashad&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Computer%20Science%20%40%20FAST%20NUCES&descAlignY=58&descSize=20&descColor=ccccff)
 
-[![GitHub followers](https://img.shields.io/github/followers/ahmadrashad1?style=flat&color=0e75b6&label=followers)](https://github.com/ahmadrashad1)
-[![Profile views](https://komarev.com/ghpvc/?username=ahmadrashad1&color=0e75b6&style=flat)](https://github.com/ahmadrashad1)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Turning+Complex+Problems+into+Clean+Code;AI+%7C+Systems+%7C+Full-Stack;Building+Things+That+Actually+Work)](https://git.io/typing-svg)
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmadrashad1)
+[![Gmail](https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmadrashad1@gmail.com)
+[![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ahmadrashad1)
+[![Profile Views](https://komarev.com/ghpvc/?username=ahmadrashad1&style=for-the-badge&color=6e40c9&label=PROFILE+VIEWS)](https://github.com/ahmadrashad1)
 
 </div>
 
 ---
 
+## $ whoami
+
 ```python
 class Ahmad:
     role        = "CS Student & Developer"
     university  = "FAST NUCES, Pakistan"
-    focus       = ["AI/ML", "Full Stack", "AI Automations", "Software Development"]
+    focus       = ["AI/ML", "Game Dev", "Parallel Computing", "Full-Stack"]
     currently   = "Exploring the intersection of intelligence and code"
-    ask_me_about= ["API integrations", "AI Automations", "Full Stack", "React", "AI algorithms"]
+    ask_me_about= ["Minimax algorithms", "ML models", "C++ systems", "React"]
 
     def mission(self):
         return "Turn caffeine and curiosity into working software."
@@ -24,30 +31,34 @@ class Ahmad:
 
 ---
 
-## 🛠 Tech Stack
+## 🧠 AI & ML Stack
 
-**Languages**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![Python](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/SCIKIT--LEARN-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TENSORFLOW-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![NumPy](https://img.shields.io/badge/NUMPY-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/PANDAS-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Jupyter](https://img.shields.io/badge/JUPYTER-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
-**Domains**
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![OpenCL](https://img.shields.io/badge/OpenCL%20%2F%20OpenMP-ED1C24?style=flat-square&logo=amd&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+## 🌐 Full-Stack
+
+![TypeScript](https://img.shields.io/badge/TYPESCRIPT-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/REACT-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/NODE.JS-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![OpenCL](https://img.shields.io/badge/OPENCL-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
-## 🚀 Featured Projects
+## 🔥 What I Build
 
-| Project | What it does | Stack |
-|--------|-------------|-------|
-| [**tictactoe**](https://github.com/ahmadrashad1/tictactoe) | Unbeatable AI using the Minimax algorithm | Python · Jupyter |
-| [**SportSync-frontend**](https://github.com/ahmadrashad1/SportSync-frontend) | Frontend for a sports platform | TypeScript · React |
-| [**torcs-ai-mlpRegressor**](https://github.com/ahmadrashad1/torcs-ai-mlpRegressor) | Self-driving AI trained on TORCS sim | Python · Sklearn |
-| [**OpenCL-OpenMP**](https://github.com/ahmadrashad1/OpenCL-OpenMP) | Parallel distributed computing tasks | C++ · OpenCL |
-| [**Dodge-em**](https://github.com/ahmadrashad1/Dodge-em) | OOP game with inheritance & polymorphism | C++ |
+```
+🎮  Game AI              →  Unbeatable agents using Minimax & adversarial search
+🤖  ML Models            →  Regression, classification & simulation-trained AI
+⚡  Parallel Systems     →  Distributed computing with OpenCL & OpenMP
+🌐  Full-Stack Apps      →  End-to-end web platforms with clean frontends
+```
 
 ---
 
@@ -59,9 +70,7 @@ class Ahmad:
 &nbsp;
 <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadrashad1&layout=compact&theme=tokyonight&hide_border=true" />
 
-</div>
-
-<div align="center">
+<br/>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=ahmadrashad1&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
@@ -71,6 +80,6 @@ class Ahmad:
 
 <div align="center">
 
-*"Programs must be written for people to read, and only incidentally for machines to execute."*
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:6e40c9,50:1a1f6e,100:0d1117&height=120&section=footer)
 
 </div>
