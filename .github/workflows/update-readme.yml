@@ -1,0 +1,45 @@
+name: Update Starred Repos in README
+
+on:
+  # Runs whenever you star/unstar a repo
+  watch:
+    types: [started]
+
+  # Also runs on a daily schedule as a safety net
+  schedule:
+    - cron: "0 0 * * *"
+
+  # Lets you trigger it manually from the Actions tab
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Run update script
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python scripts/update_readme.py
+
+      - name: Commit & push if README changed
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git diff --cached --quiet || git commit -m "chore: sync starred repos [skip ci]"
+          git push
