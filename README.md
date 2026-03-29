@@ -54,10 +54,9 @@ class Ahmad:
 ## 🔥 What I Build
 
 ```
-🎮  Game AI              →  Unbeatable agents using Minimax & adversarial search
-🤖  ML Models            →  Regression, classification & simulation-trained AI
-⚡  Parallel Systems     →  Distributed computing with OpenCL & OpenMP
-🌐  Full-Stack Apps      →  End-to-end web platforms with clean frontends
+🎮  AI automations       →  Streamline workflows through automation to maximize operational efficiency
+🤖  Gen AI               →  Fine tune generative models to produce high-fidelity, domain-specific content.
+🌐  Full-Stack Apps      →  End-to-end web platforms with creative frontends
 ```
 
 ---
