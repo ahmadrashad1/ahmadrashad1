@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 320" width="1200" height="320" role="img" aria-label="Ahmad Rashad — platform and infrastructure engineer">
+  <defs>
+    <pattern id="scan" width="4" height="4" patternUnits="userSpaceOnUse">
+      <rect width="4" height="2" fill="#FFFFFF" opacity="0.022"/>
+    </pattern>
+    <pattern id="bars" width="6" height="40" patternUnits="userSpaceOnUse">
+      <rect width="2" height="40" fill="#EAEAEA" opacity="0.5"/>
+      <rect x="3" width="1" height="40" fill="#EAEAEA" opacity="0.28"/>
+    </pattern>
+  </defs>
+
+  <rect width="1200" height="320" fill="#0A0A0A"/>
+  <rect width="1200" height="320" fill="url(#scan)"/>
+
+  <rect x="0" y="0" width="1200" height="6" fill="#E61919"/>
+
+  <g fill="#8A8A8A" font-family="'Courier New',Courier,monospace" font-size="12" letter-spacing="3">
+    <text x="48" y="54">UNIT / ENG-01</text>
+    <text x="1152" y="54" text-anchor="end">REV 2.6 — STATUS: OPERATIONAL</text>
+  </g>
+
+  <line x1="48" y1="74" x2="1152" y2="74" stroke="#2A2A2A" stroke-width="1"/>
+
+  <text x="44" y="186" fill="#EAEAEA" font-family="'Helvetica Neue',Helvetica,'Arial Black',Arial,sans-serif"
+        font-size="104" font-weight="900" letter-spacing="-5">AHMAD RASHAD</text>
+
+  <rect x="48" y="206" width="96" height="5" fill="#E61919"/>
+
+  <text x="48" y="246" fill="#A8A8A8" font-family="'Courier New',Courier,monospace"
+        font-size="15" letter-spacing="6">PLATFORM &amp; INFRASTRUCTURE ENGINEER</text>
+
+  <text x="48" y="276" fill="#5E5E5E" font-family="'Courier New',Courier,monospace"
+        font-size="12" letter-spacing="3">MULTI-TENANT SAAS // TELEPHONY // KUBERNETES // AWS</text>
+
+  <rect x="1012" y="214" width="140" height="40" fill="url(#bars)"/>
+  <text x="1152" y="276" fill="#5E5E5E" text-anchor="end" font-family="'Courier New',Courier,monospace"
+        font-size="12" letter-spacing="3">LAT 31.5204 / LON 74.3587</text>
+
+  <g stroke="#E61919" stroke-width="1.5">
+    <path d="M300 92 h14 M307 85 v14"/>
+    <path d="M600 92 h14 M607 85 v14"/>
+    <path d="M900 92 h14 M907 85 v14"/>
+  </g>
+
+  <rect x="0" y="314" width="1200" height="6" fill="#EAEAEA" opacity="0.08"/>
+</svg>
